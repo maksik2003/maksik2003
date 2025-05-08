@@ -1,16 +1,45 @@
-## Hi there 👋
+Привет! Я меня зовут Максим Пономарев и я <b>Python backend developer</b>. Интересуюсь программированием на Python с 2022 года (3 года суммарно). Имею опыт работы в нескольких компаниях
 
-<!--
-**maksik2003/maksik2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Опыт
 
-Here are some ideas to get you started:
+#### Оператор сотовой связи - Мотив - motivtelecom.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Техподдержка (1 линия): 2022 - 2024
+- Backend разработка: 2024 - 2025
+
+#### Магазин парфюмерии и косметики "Золотое яблоко" - goldapple.ru
+
+- Python разработчик средств защиты от цифровых рисков
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksik2003&show_icons=true&theme=transparent)
+
+
+## Skills
+#### Language
+<div align=left>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</div>
+
+#### Beckend
+<div align=left>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
+</div>
+
+#### Database
+<div align=left> 
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+</div>
+
+#### DevOps
+<div align=left> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
+</div>
